@@ -1,0 +1,12 @@
+{
+    "name": "erikvargas/factory",
+    "authors": [
+        {
+            "name": "Erik Vargas",
+            "email": "erik.vargas@assuresoft.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
